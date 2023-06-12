@@ -58,3 +58,23 @@ _Mensagem explicativa_
 >
 > 1. Assinale, com as iniciais dos participantes do time, o nível importância (1 é o menos importante) de cada categoria de requisito não-funcional relevante aplicação. 
 > 2. As iniciais de um participante deverá aparecer apenas uma vez em um nível de importância.
+
+# 4. DESCRIÇÃO DOS PERSONAS
+
+> Uma persona representa um usuário do produto ou serviço, descrevendo não só o 
+> seu papel, mas também as suas necessidades específicas.
+
+| **Apelido** | **Perfil** | **Comportamento** | **Necessidades** |
+|-------------|------------|-------------------|------------------|
+| Persona 1   |  ....      | ....              | ...              |
+
+# 5. BRAINSTORMING DE FUNCIONALIDADES
+
+> O que deve ter o produto para atender às necessidades da persona? Quais funcionalidades
+> devemos construir para atingir esse objetivo do produto?
+
+* Funcionalidade A
+* Funcionalidade B
+* Funcionalidade C
+* Funcionalidade D
+* ....
