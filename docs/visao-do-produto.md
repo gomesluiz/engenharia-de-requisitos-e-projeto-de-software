@@ -77,4 +77,5 @@ _Mensagem explicativa_
 * Funcionalidade B
 * Funcionalidade C
 * Funcionalidade D
-* ....
+* Funcionalidade E
+* ...
