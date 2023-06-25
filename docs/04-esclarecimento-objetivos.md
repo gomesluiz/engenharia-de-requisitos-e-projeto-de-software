@@ -79,3 +79,59 @@ _Mensagem explicativa_
 * Funcionalidade D
 * Funcionalidade E
 * ...
+
+# 6. REVISÃO TÉCNICA, DE NEGÓCIO E DE UX
+
+> A revisão técnica, de negócio e de UX busca, através do gráfico do semáforo e da tabela
+> de esforço, negócio e UX, informações mais detalhadas sobre as funcionalidades de forma
+> rápida e eficiente.
+>
+
+[Tabela de revisão técnica, de negócio e de ux (com o gráfico do semáforo).](./templates/planilha_revisao_tecnica_negocio_ux.xlsx)
+
+## Funcionalidades
+
+| Funcionalidade   | Nível de Confiança | Esforço | Valor UX | Valor de Negócio |
+|------------------|--------------------|---------|----------|------------------|
+| Funcionalidade A | AMARELO            | EE      | ***      | $$$$             |
+| Funcionalidade B | VERMELHO           | E       | *        | **               |
+| Funcionalidade C | VERDE              | EE      | **       | $                |
+| Funcionalidade D | VERMELHO           | EE      | *        | $$               |
+
+# 7. MOSTRE A JORNADA DOS USUÁRIOS
+
+> A jornada do usuário representa o passo-a-passo que uma persona realiza para
+> alcançar um objetivo com o produto de software.
+
+## JORNADAS
+
+### PERSONA 1: FUNCIONALIDADE A
+1. Acorda cedo para o trabalho
+2. Toma o café da manhã
+3. Chega do trabalho às 9:00
+4. ...
+
+### PERSONA 2: FUNCIONALIDADE B
+1. Acorda cedo para o trabalho
+2. Toma o café da manhã
+3. Chega do trabalho às 9:00
+4. ...
+
+## COLOQUE AS FUNCIONALIDADES NAS JORNADAS 
+| PASSO            | FUNCIONALIDADE | 
+|------------------|--------------------|
+| Passo 1          | -                  |
+| Passo 2          | -                  |
+| Passo 3          | -                  |
+| Passo 4          | Funcionalidade B   |
+
+# 8. CONSTRUA O SEQUENCIADOR
+
+| Funcionalidade   | Onda | MVP |
+|------------------|------|-----|
+| Funcionalidade 1 | 1    | 1   |
+| Funcionalidade 2 | 1    | 1   |
+| Funcionalidade 3 | 2    | 2   |
+| Funcionalidade 4 | 2    | 2   |
+| Funcionalidade 5 | 2    | 3   |
+
